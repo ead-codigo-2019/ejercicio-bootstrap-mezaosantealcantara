@@ -10,3 +10,8 @@
     height: 200px;
     width: 100px;
 }
+.bd-example{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}

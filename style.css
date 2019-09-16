@@ -1,0 +1,9 @@
+.container {
+    background-color: lightgrey;
+    color: white;
+    border: black;
+}
+
+.col {
+    border: 1px solid dimgrey;
+}

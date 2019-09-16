@@ -7,3 +7,8 @@
 .col {
     border: 1px solid dimgrey;
 }
+.bd-example{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
